@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6ec73245027c34da8e9ebacb722d4fa",
+    "revision": "20097f5b8d4521cac934df9d36bad938",
     "url": "/holy-trinity-orthodox-church-build/index.html"
   },
   {
-    "revision": "13ac786acb51894dfe05",
-    "url": "/holy-trinity-orthodox-church-build/static/css/main.e5edd2a7.chunk.css"
+    "revision": "87d33f99f9f5a6689226",
+    "url": "/holy-trinity-orthodox-church-build/static/css/main.63ce9125.chunk.css"
   },
   {
-    "revision": "4a0ba129500a372d19dc",
-    "url": "/holy-trinity-orthodox-church-build/static/js/2.fe6eebf4.chunk.js"
+    "revision": "f2f0618dda8c3b870956",
+    "url": "/holy-trinity-orthodox-church-build/static/js/2.44222df1.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/holy-trinity-orthodox-church-build/static/js/2.fe6eebf4.chunk.js.LICENSE.txt"
+    "url": "/holy-trinity-orthodox-church-build/static/js/2.44222df1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13ac786acb51894dfe05",
-    "url": "/holy-trinity-orthodox-church-build/static/js/main.7079dcc8.chunk.js"
+    "revision": "87d33f99f9f5a6689226",
+    "url": "/holy-trinity-orthodox-church-build/static/js/main.6e870075.chunk.js"
   },
   {
     "revision": "3a1820124007f0a1b108",
@@ -56,7 +56,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/holy-trinity-orthodox-church-build/static/media/news_2.e4945bfb.png"
   },
   {
+    "revision": "078608df208199ce8c272bdb0912119c",
+    "url": "/holy-trinity-orthodox-church-build/static/media/prior_1.078608df.png"
+  },
+  {
+    "revision": "ffd931356ce5f5e42eaa78f99cf410fb",
+    "url": "/holy-trinity-orthodox-church-build/static/media/prior_top_image.ffd93135.png"
+  },
+  {
+    "revision": "9e58ff1eb85b8dbea6d52289d1c3aa86",
+    "url": "/holy-trinity-orthodox-church-build/static/media/sisterhood_1.9e58ff1e.png"
+  },
+  {
+    "revision": "a38dd36133eefc40766d3349b652611c",
+    "url": "/holy-trinity-orthodox-church-build/static/media/sisterhood_2.a38dd361.png"
+  },
+  {
+    "revision": "75c59fd7bc4add501b22213d4c656e00",
+    "url": "/holy-trinity-orthodox-church-build/static/media/sisterhood_3.75c59fd7.png"
+  },
+  {
     "revision": "43a4eda84c019a926253467aa7a6cea8",
     "url": "/holy-trinity-orthodox-church-build/static/media/slider.43a4eda8.png"
+  },
+  {
+    "revision": "b8f36b65b5fd5c507ff7f4e1c1e6bad2",
+    "url": "/holy-trinity-orthodox-church-build/static/media/susterhood_top_image.b8f36b65.png"
   }
 ]);
