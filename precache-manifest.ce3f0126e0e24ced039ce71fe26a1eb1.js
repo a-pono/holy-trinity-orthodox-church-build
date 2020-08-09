@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04848686dc236f5f0e8f38101b7492cc",
+    "revision": "293ffc9968317287880e164b2e103021",
     "url": "/holy-trinity-orthodox-church-build/index.html"
   },
   {
-    "revision": "9e36fd877507099a13a8",
-    "url": "/holy-trinity-orthodox-church-build/static/css/main.d9586bcc.chunk.css"
+    "revision": "ddf18bc101fa1bd7d4cc",
+    "url": "/holy-trinity-orthodox-church-build/static/css/main.8c8bd668.chunk.css"
   },
   {
-    "revision": "7e8f1353a2f5b84c7eb6",
-    "url": "/holy-trinity-orthodox-church-build/static/js/2.0387f42c.chunk.js"
+    "revision": "7b2d4b22583f082a7f1b",
+    "url": "/holy-trinity-orthodox-church-build/static/js/2.c27c9e8c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/holy-trinity-orthodox-church-build/static/js/2.0387f42c.chunk.js.LICENSE.txt"
+    "url": "/holy-trinity-orthodox-church-build/static/js/2.c27c9e8c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e36fd877507099a13a8",
-    "url": "/holy-trinity-orthodox-church-build/static/js/main.9bf6a60c.chunk.js"
+    "revision": "ddf18bc101fa1bd7d4cc",
+    "url": "/holy-trinity-orthodox-church-build/static/js/main.b9496ae4.chunk.js"
   },
   {
     "revision": "3a1820124007f0a1b108",
@@ -54,6 +54,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e4945bfbcb82eabbed75ae5b86dfb47c",
     "url": "/holy-trinity-orthodox-church-build/static/media/news_2.e4945bfb.png"
+  },
+  {
+    "revision": "664d6f15f30887f74cbe1579dbad7a80",
+    "url": "/holy-trinity-orthodox-church-build/static/media/our_church_1.664d6f15.png"
+  },
+  {
+    "revision": "af9cc205b37635b675933a547a6d2427",
+    "url": "/holy-trinity-orthodox-church-build/static/media/our_church_2.af9cc205.png"
+  },
+  {
+    "revision": "4883416aea0bdfc56cea77b9a17a220e",
+    "url": "/holy-trinity-orthodox-church-build/static/media/parish_history_1.4883416a.png"
+  },
+  {
+    "revision": "1ffc6589cd2f2ac7d882329943faefde",
+    "url": "/holy-trinity-orthodox-church-build/static/media/parish_history_2.1ffc6589.png"
+  },
+  {
+    "revision": "b7c1386604e466d1ef5661902ced860e",
+    "url": "/holy-trinity-orthodox-church-build/static/media/parish_history_3.b7c13866.png"
   },
   {
     "revision": "2b379553831205acbfb0113d94ba39be",

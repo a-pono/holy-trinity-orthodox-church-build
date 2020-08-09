@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/holy-trinity-orthodox-church-build/static/css/main.d9586bcc.chunk.css",
-    "main.js": "/holy-trinity-orthodox-church-build/static/js/main.9bf6a60c.chunk.js",
-    "main.js.map": "/holy-trinity-orthodox-church-build/static/js/main.9bf6a60c.chunk.js.map",
+    "main.css": "/holy-trinity-orthodox-church-build/static/css/main.8c8bd668.chunk.css",
+    "main.js": "/holy-trinity-orthodox-church-build/static/js/main.b9496ae4.chunk.js",
+    "main.js.map": "/holy-trinity-orthodox-church-build/static/js/main.b9496ae4.chunk.js.map",
     "runtime-main.js": "/holy-trinity-orthodox-church-build/static/js/runtime-main.c39ffb18.js",
     "runtime-main.js.map": "/holy-trinity-orthodox-church-build/static/js/runtime-main.c39ffb18.js.map",
-    "static/js/2.0387f42c.chunk.js": "/holy-trinity-orthodox-church-build/static/js/2.0387f42c.chunk.js",
-    "static/js/2.0387f42c.chunk.js.map": "/holy-trinity-orthodox-church-build/static/js/2.0387f42c.chunk.js.map",
+    "static/js/2.c27c9e8c.chunk.js": "/holy-trinity-orthodox-church-build/static/js/2.c27c9e8c.chunk.js",
+    "static/js/2.c27c9e8c.chunk.js.map": "/holy-trinity-orthodox-church-build/static/js/2.c27c9e8c.chunk.js.map",
     "index.html": "/holy-trinity-orthodox-church-build/index.html",
-    "precache-manifest.309cbdac66249e1793a4ece6f122bf2d.js": "/holy-trinity-orthodox-church-build/precache-manifest.309cbdac66249e1793a4ece6f122bf2d.js",
+    "precache-manifest.ce3f0126e0e24ced039ce71fe26a1eb1.js": "/holy-trinity-orthodox-church-build/precache-manifest.ce3f0126e0e24ced039ce71fe26a1eb1.js",
     "service-worker.js": "/holy-trinity-orthodox-church-build/service-worker.js",
-    "static/css/main.d9586bcc.chunk.css.map": "/holy-trinity-orthodox-church-build/static/css/main.d9586bcc.chunk.css.map",
-    "static/js/2.0387f42c.chunk.js.LICENSE.txt": "/holy-trinity-orthodox-church-build/static/js/2.0387f42c.chunk.js.LICENSE.txt",
+    "static/css/main.8c8bd668.chunk.css.map": "/holy-trinity-orthodox-church-build/static/css/main.8c8bd668.chunk.css.map",
+    "static/js/2.c27c9e8c.chunk.js.LICENSE.txt": "/holy-trinity-orthodox-church-build/static/js/2.c27c9e8c.chunk.js.LICENSE.txt",
     "static/media/about.png": "/holy-trinity-orthodox-church-build/static/media/about.b3353bf3.png",
     "static/media/about_right.png": "/holy-trinity-orthodox-church-build/static/media/about_right.9192dd51.png",
     "static/media/all_contacts_top_image.png": "/holy-trinity-orthodox-church-build/static/media/all_contacts_top_image.ec06318a.png",
@@ -20,6 +20,11 @@
     "static/media/logo_site.png": "/holy-trinity-orthodox-church-build/static/media/logo_site.a36d756a.png",
     "static/media/news_1.png": "/holy-trinity-orthodox-church-build/static/media/news_1.940c0e34.png",
     "static/media/news_2.png": "/holy-trinity-orthodox-church-build/static/media/news_2.e4945bfb.png",
+    "static/media/our_church_1.png": "/holy-trinity-orthodox-church-build/static/media/our_church_1.664d6f15.png",
+    "static/media/our_church_2.png": "/holy-trinity-orthodox-church-build/static/media/our_church_2.af9cc205.png",
+    "static/media/parish_history_1.png": "/holy-trinity-orthodox-church-build/static/media/parish_history_1.4883416a.png",
+    "static/media/parish_history_2.png": "/holy-trinity-orthodox-church-build/static/media/parish_history_2.1ffc6589.png",
+    "static/media/parish_history_3.png": "/holy-trinity-orthodox-church-build/static/media/parish_history_3.b7c13866.png",
     "static/media/parish_top_image.png": "/holy-trinity-orthodox-church-build/static/media/parish_top_image.2b379553.png",
     "static/media/prior_1.png": "/holy-trinity-orthodox-church-build/static/media/prior_1.078608df.png",
     "static/media/prior_top_image.png": "/holy-trinity-orthodox-church-build/static/media/prior_top_image.ffd93135.png",
@@ -32,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c39ffb18.js",
-    "static/js/2.0387f42c.chunk.js",
-    "static/css/main.d9586bcc.chunk.css",
-    "static/js/main.9bf6a60c.chunk.js"
+    "static/js/2.c27c9e8c.chunk.js",
+    "static/css/main.8c8bd668.chunk.css",
+    "static/js/main.b9496ae4.chunk.js"
   ]
 }
