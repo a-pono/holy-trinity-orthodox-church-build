@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "293ffc9968317287880e164b2e103021",
+    "revision": "003a188266a4306394725ba6518b6d92",
     "url": "/holy-trinity-orthodox-church-build/index.html"
   },
   {
-    "revision": "ddf18bc101fa1bd7d4cc",
-    "url": "/holy-trinity-orthodox-church-build/static/css/main.8c8bd668.chunk.css"
+    "revision": "ec3f200e68506860ee42",
+    "url": "/holy-trinity-orthodox-church-build/static/css/main.08f5807d.chunk.css"
   },
   {
-    "revision": "7b2d4b22583f082a7f1b",
-    "url": "/holy-trinity-orthodox-church-build/static/js/2.c27c9e8c.chunk.js"
+    "revision": "e11611b6cc7cf3a960aa",
+    "url": "/holy-trinity-orthodox-church-build/static/js/2.4cb364ef.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/holy-trinity-orthodox-church-build/static/js/2.c27c9e8c.chunk.js.LICENSE.txt"
+    "url": "/holy-trinity-orthodox-church-build/static/js/2.4cb364ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddf18bc101fa1bd7d4cc",
-    "url": "/holy-trinity-orthodox-church-build/static/js/main.b9496ae4.chunk.js"
+    "revision": "ec3f200e68506860ee42",
+    "url": "/holy-trinity-orthodox-church-build/static/js/main.2e5c1860.chunk.js"
   },
   {
     "revision": "3a1820124007f0a1b108",
@@ -38,6 +38,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f5253a916fa7a4081f826613841507ee",
     "url": "/holy-trinity-orthodox-church-build/static/media/events.f5253a91.png"
+  },
+  {
+    "revision": "ba31e88f8469ab2509c28f99445288b3",
+    "url": "/holy-trinity-orthodox-church-build/static/media/life_and_work_1.ba31e88f.png"
+  },
+  {
+    "revision": "f0827b06d13db4ed63d3fff2623ae349",
+    "url": "/holy-trinity-orthodox-church-build/static/media/life_and_work_2.f0827b06.png"
+  },
+  {
+    "revision": "670b55505f90291ea856f6760224776d",
+    "url": "/holy-trinity-orthodox-church-build/static/media/life_and_work_3.670b5550.png"
   },
   {
     "revision": "73d712b3091bdc55821754113d4fa3be",
@@ -110,5 +122,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b8f36b65b5fd5c507ff7f4e1c1e6bad2",
     "url": "/holy-trinity-orthodox-church-build/static/media/susterhood_top_image.b8f36b65.png"
+  },
+  {
+    "revision": "cf43895e8042195f8321958aa551adb7",
+    "url": "/holy-trinity-orthodox-church-build/static/media/vestnik_1.cf43895e.png"
+  },
+  {
+    "revision": "827370f537c4fed054c35bc2198e0230",
+    "url": "/holy-trinity-orthodox-church-build/static/media/vestnik_2.827370f5.png"
+  },
+  {
+    "revision": "94ed4d8f1fb7bd5ef0d4a459f3739382",
+    "url": "/holy-trinity-orthodox-church-build/static/media/vestnik_3.94ed4d8f.png"
+  },
+  {
+    "revision": "feedb4a8cfd6b443a2166576e33e7c8d",
+    "url": "/holy-trinity-orthodox-church-build/static/media/vestnik_4.feedb4a8.png"
   }
 ]);
