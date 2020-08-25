@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/holy-trinity-orthodox-church-build/precache-manifest.9183ea3abaf585167b02cbd2fd9496d8.js"
+  "/holy-trinity-orthodox-church-build/precache-manifest.816e9e4bbc534ba45b0776379da8b8d6.js"
 );
 
 self.addEventListener('message', (event) => {
