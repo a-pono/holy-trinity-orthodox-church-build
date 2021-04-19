@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/holy-trinity-orthodox-church-build/static/css/main.c3feda18.chunk.css",
-    "main.js": "/holy-trinity-orthodox-church-build/static/js/main.dbba0b9c.chunk.js",
-    "main.js.map": "/holy-trinity-orthodox-church-build/static/js/main.dbba0b9c.chunk.js.map",
+    "main.js": "/holy-trinity-orthodox-church-build/static/js/main.a6aca372.chunk.js",
+    "main.js.map": "/holy-trinity-orthodox-church-build/static/js/main.a6aca372.chunk.js.map",
     "runtime-main.js": "/holy-trinity-orthodox-church-build/static/js/runtime-main.03556a13.js",
     "runtime-main.js.map": "/holy-trinity-orthodox-church-build/static/js/runtime-main.03556a13.js.map",
     "static/js/2.25671622.chunk.js": "/holy-trinity-orthodox-church-build/static/js/2.25671622.chunk.js",
@@ -46,7 +46,6 @@
     "static/media/sisterhood_1.efb8a06d.png": "/holy-trinity-orthodox-church-build/static/media/sisterhood_1.efb8a06d.png",
     "static/media/sisterhood_2.2ff92ce2.png": "/holy-trinity-orthodox-church-build/static/media/sisterhood_2.2ff92ce2.png",
     "static/media/sisterhood_3.d387544d.png": "/holy-trinity-orthodox-church-build/static/media/sisterhood_3.d387544d.png",
-    "static/media/slider.fee25e76.png": "/holy-trinity-orthodox-church-build/static/media/slider.fee25e76.png",
     "static/media/support_us_1.e0d7d4f9.png": "/holy-trinity-orthodox-church-build/static/media/support_us_1.e0d7d4f9.png",
     "static/media/susterhood_top_image.dbd6a491.png": "/holy-trinity-orthodox-church-build/static/media/susterhood_top_image.dbd6a491.png",
     "static/media/the_basics_1.47883df0.png": "/holy-trinity-orthodox-church-build/static/media/the_basics_1.47883df0.png",
@@ -60,6 +59,6 @@
     "static/js/runtime-main.03556a13.js",
     "static/js/2.25671622.chunk.js",
     "static/css/main.c3feda18.chunk.css",
-    "static/js/main.dbba0b9c.chunk.js"
+    "static/js/main.a6aca372.chunk.js"
   ]
 }
