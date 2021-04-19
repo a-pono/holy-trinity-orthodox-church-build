@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/holy-trinity-orthodox-church-build/static/css/main.0a3bf592.chunk.css",
-    "main.js": "/holy-trinity-orthodox-church-build/static/js/main.9ff180c9.chunk.js",
-    "main.js.map": "/holy-trinity-orthodox-church-build/static/js/main.9ff180c9.chunk.js.map",
+    "main.js": "/holy-trinity-orthodox-church-build/static/js/main.e768e534.chunk.js",
+    "main.js.map": "/holy-trinity-orthodox-church-build/static/js/main.e768e534.chunk.js.map",
     "runtime-main.js": "/holy-trinity-orthodox-church-build/static/js/runtime-main.03556a13.js",
     "runtime-main.js.map": "/holy-trinity-orthodox-church-build/static/js/runtime-main.03556a13.js.map",
     "static/js/2.25671622.chunk.js": "/holy-trinity-orthodox-church-build/static/js/2.25671622.chunk.js",
@@ -59,6 +59,6 @@
     "static/js/runtime-main.03556a13.js",
     "static/js/2.25671622.chunk.js",
     "static/css/main.0a3bf592.chunk.css",
-    "static/js/main.9ff180c9.chunk.js"
+    "static/js/main.e768e534.chunk.js"
   ]
 }
