@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/holy-trinity-orthodox-church-build/static/css/main.07e9a2a0.chunk.css",
-    "main.js": "/holy-trinity-orthodox-church-build/static/js/main.dc99b343.chunk.js",
-    "main.js.map": "/holy-trinity-orthodox-church-build/static/js/main.dc99b343.chunk.js.map",
+    "main.css": "/holy-trinity-orthodox-church-build/static/css/main.11d5e172.chunk.css",
+    "main.js": "/holy-trinity-orthodox-church-build/static/js/main.975e16a4.chunk.js",
+    "main.js.map": "/holy-trinity-orthodox-church-build/static/js/main.975e16a4.chunk.js.map",
     "runtime-main.js": "/holy-trinity-orthodox-church-build/static/js/runtime-main.03556a13.js",
     "runtime-main.js.map": "/holy-trinity-orthodox-church-build/static/js/runtime-main.03556a13.js.map",
     "static/js/2.cc6b5f92.chunk.js": "/holy-trinity-orthodox-church-build/static/js/2.cc6b5f92.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.6251a31b.chunk.js": "/holy-trinity-orthodox-church-build/static/js/3.6251a31b.chunk.js",
     "static/js/3.6251a31b.chunk.js.map": "/holy-trinity-orthodox-church-build/static/js/3.6251a31b.chunk.js.map",
     "index.html": "/holy-trinity-orthodox-church-build/index.html",
-    "static/css/main.07e9a2a0.chunk.css.map": "/holy-trinity-orthodox-church-build/static/css/main.07e9a2a0.chunk.css.map",
+    "static/css/main.11d5e172.chunk.css.map": "/holy-trinity-orthodox-church-build/static/css/main.11d5e172.chunk.css.map",
     "static/js/2.cc6b5f92.chunk.js.LICENSE.txt": "/holy-trinity-orthodox-church-build/static/js/2.cc6b5f92.chunk.js.LICENSE.txt",
     "static/media/about.530ce231.png": "/holy-trinity-orthodox-church-build/static/media/about.530ce231.png",
     "static/media/about_church_1.5fdc1a7a.png": "/holy-trinity-orthodox-church-build/static/media/about_church_1.5fdc1a7a.png",
@@ -54,7 +54,7 @@
   "entrypoints": [
     "static/js/runtime-main.03556a13.js",
     "static/js/2.cc6b5f92.chunk.js",
-    "static/css/main.07e9a2a0.chunk.css",
-    "static/js/main.dc99b343.chunk.js"
+    "static/css/main.11d5e172.chunk.css",
+    "static/js/main.975e16a4.chunk.js"
   ]
 }
